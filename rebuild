@@ -91,7 +91,7 @@ build_armbian=(
     "s905w"
     "s905"
     "s905l3a"
-    "rock5b"
+    "rock5b" "radxa-e25"
     "r66s" "r68s"
     "beikeyun" "l1pro"
 )

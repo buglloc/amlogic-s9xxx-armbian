@@ -21,7 +21,7 @@ on:
         options:
           - all
           - s922x_s905x3_s905d_s912_s905l3a
-          - rock5b_r66s_r68s_beikeyun_l1pro
+          - radxa-e25_rock5b_r66s_r68s_beikeyun_l1pro
           - a311d
           - s922x
           - s922x-n2
@@ -40,6 +40,7 @@ on:
           - s905l3a
           - s905l2
           - rock5b
+          - radxa-e25
           - r66s
           - r68s
           - beikeyun
